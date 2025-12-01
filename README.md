@@ -1,4 +1,4 @@
-#Hi, my name is Bo Hamer 
+# Hi, my name is Bo Hamer 
 
 ## About Me
 I'm a starting software engineer looking for opportunities to learn more. 
